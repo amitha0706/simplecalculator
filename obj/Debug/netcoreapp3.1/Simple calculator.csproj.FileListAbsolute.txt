@@ -1,0 +1,16 @@
+C:\Users\Amitha Galisetty\source\repos\Simple calculator\Simple calculator\bin\Debug\netcoreapp3.1\Simple calculator.exe
+C:\Users\Amitha Galisetty\source\repos\Simple calculator\Simple calculator\bin\Debug\netcoreapp3.1\Simple calculator.deps.json
+C:\Users\Amitha Galisetty\source\repos\Simple calculator\Simple calculator\bin\Debug\netcoreapp3.1\Simple calculator.runtimeconfig.json
+C:\Users\Amitha Galisetty\source\repos\Simple calculator\Simple calculator\bin\Debug\netcoreapp3.1\Simple calculator.runtimeconfig.dev.json
+C:\Users\Amitha Galisetty\source\repos\Simple calculator\Simple calculator\bin\Debug\netcoreapp3.1\Simple calculator.dll
+C:\Users\Amitha Galisetty\source\repos\Simple calculator\Simple calculator\bin\Debug\netcoreapp3.1\Simple calculator.pdb
+C:\Users\Amitha Galisetty\source\repos\Simple calculator\Simple calculator\obj\Debug\netcoreapp3.1\Simple calculator.csproj.AssemblyReference.cache
+C:\Users\Amitha Galisetty\source\repos\Simple calculator\Simple calculator\obj\Debug\netcoreapp3.1\Simple_calculator.Form1.resources
+C:\Users\Amitha Galisetty\source\repos\Simple calculator\Simple calculator\obj\Debug\netcoreapp3.1\Simple calculator.csproj.GenerateResource.cache
+C:\Users\Amitha Galisetty\source\repos\Simple calculator\Simple calculator\obj\Debug\netcoreapp3.1\Simple calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amitha Galisetty\source\repos\Simple calculator\Simple calculator\obj\Debug\netcoreapp3.1\Simple calculator.AssemblyInfoInputs.cache
+C:\Users\Amitha Galisetty\source\repos\Simple calculator\Simple calculator\obj\Debug\netcoreapp3.1\Simple calculator.AssemblyInfo.cs
+C:\Users\Amitha Galisetty\source\repos\Simple calculator\Simple calculator\obj\Debug\netcoreapp3.1\Simple calculator.csproj.CoreCompileInputs.cache
+C:\Users\Amitha Galisetty\source\repos\Simple calculator\Simple calculator\obj\Debug\netcoreapp3.1\Simple calculator.dll
+C:\Users\Amitha Galisetty\source\repos\Simple calculator\Simple calculator\obj\Debug\netcoreapp3.1\Simple calculator.pdb
+C:\Users\Amitha Galisetty\source\repos\Simple calculator\Simple calculator\obj\Debug\netcoreapp3.1\Simple calculator.genruntimeconfig.cache
